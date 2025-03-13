@@ -52,10 +52,7 @@
 ---
 
 ## 📊 GitHub Stats:
-
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=IndoKris&show_icons=true&theme=radical" alt="GitHub Stats" width="60%">
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=IndoKris&show_icons=true&theme=radical" alt="GitHub Stats" width="60%"> 
 </div>
 
-✨ **Let's connect and build something amazing together!** 🚀
