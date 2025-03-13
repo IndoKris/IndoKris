@@ -1,5 +1,3 @@
-krishkumarx/README.md
-
 [ ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github) ](https://github.com/IndoKris)
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin) ](www.linkedin.com/in/krish-kumar-083756334)
 [ ![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium) ](YOUR_MEDIUM_LINK)
