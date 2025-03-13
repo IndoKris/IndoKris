@@ -1,32 +1,36 @@
-[ ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github) ](https://github.com/IndoKris)
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin) ](www.linkedin.com/in/krish-kumar-083756334)
-[ ![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium) ](YOUR_MEDIUM_LINK)
+<div >
 
-# Heya, I'm Krish Kumar 👋
+ 
 
-🚀 **Engineering Student | Tech Enthusiast | Developer | AI & ML Explorer**  
 
-I’m currently pursuing my **Bachelor’s in Engineering** and exploring the world of **AI, Machine Learning, Data Science, and Web Development**. I have hands-on experience with **C, C++, Python, and Java**, and I enjoy working on **real-world projects, competitive programming, and open-source contributions**.  
+<p align="center">
+ <a href="https://github.com/IndoKris" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+ <a href="https://www.linkedin.com/in/krish-kumar-083756334" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</p>
+ 
+</p>
+<div> 
+
+
+<h1 align="center"> Heya, I'm Krish </h1>
+
+<h3 align="center"> Engineering Student | Tech Enthusiast | Developer | AI & ML Explorer </h3>
+
+<h5 align= "center" style="background-color:DodgerBlue;">I’m currently pursuing my Bachelor’s in Engineering and exploring the world of AI, Machine Learning, Data Science, and Web Development. I have hands-on experience with C, C++, Python, and Java, and I enjoy working on real-world projects, competitive programming, and open-source contributions.  </h5>
 
 💡 **Interests:** Machine Learning, Full-Stack Development, Data Science, Competitive Programming  
 📚 **Skills:** OOP, DSA, Web Development
+## Coding Profiles:
 
----
-
-## 🚀 Coding Profiles:
 <p align="left">
-<a href="https://www.geeksforgeeks.org/user/indokris/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
-  <a href="https://leetcode.com/https://leetcode.com/u/IndoKris/" target="blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40"style="vertical-align: middle;/>
-</a>
-<a href="https://codeforces.com/profile/indokris" target="blank"><img align="center" src="https://imgs.search.brave.com/HzEJ2h29pUKjtSaHcMzTLqzy-tMqU2eY22RpYwDjpq4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWNvZGUtZm9yY2Vz/LWxvZ28taWNvbi1k/b3dubG9hZC1pbi1z/dmctcG5nLWdpZi1m/aWxlLWZvcm1hdHMt/LXRlY2hub2xvZ3kt/c29jaWFsLW1lZGlh/LXZvbC0yLXBhY2st/bG9nb3MtaWNvbnMt/Mjk0NDc5Ni5wbmc_/Zj13ZWJwJnc9MjU2" alt="Codeforces" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/indokrisgraphics" target="blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="30" width="40"/>
-</a>
+<a href="https://www.hackerrank.com/indokrisgraphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="indokrisgraphics" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/indokris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="indokris" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/IndoKris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="IndoKris" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/indokris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="indokris" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/indokris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="indokris" height="30" width="40" /></a>
 </p>
 
-
----
 
 ## 💻 Tech Stack:
 
