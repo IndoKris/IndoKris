@@ -18,10 +18,13 @@ I’m currently pursuing my **Bachelor’s in Engineering** and exploring the wo
 ## 🚀 Coding Profiles:
 <p align="left">
 <a href="https://www.geeksforgeeks.org/user/indokris/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
-<a href="(https://leetcode.com/u/IndoKris/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/indokris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/indokrisgraphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" 
-
+  <a href="https://leetcode.com/your-profile" target="blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40"/>
+</a>
+<a href="https://codeforces.com/profile/indokris" target="blank"><img align="center" src="https://imgs.search.brave.com/HzEJ2h29pUKjtSaHcMzTLqzy-tMqU2eY22RpYwDjpq4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWNvZGUtZm9yY2Vz/LWxvZ28taWNvbi1k/b3dubG9hZC1pbi1z/dmctcG5nLWdpZi1m/aWxlLWZvcm1hdHMt/LXRlY2hub2xvZ3kt/c29jaWFsLW1lZGlh/LXZvbC0yLXBhY2st/bG9nb3MtaWNvbnMt/Mjk0NDc5Ni5wbmc_/Zj13ZWJwJnc9MjU2" alt="Codeforces" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/your-profile" target="blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="30" width="40"/>
+</a>
 </p>
 
 
