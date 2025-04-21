@@ -19,7 +19,7 @@
 
 <h5 align= "center" style="background-color:DodgerBlue;">I’m currently pursuing my Bachelor’s in Engineering and exploring the world of AI, Machine Learning, Data Science, and Web Development. I have hands-on experience with C, C++, Python, and Java, and I enjoy working on real-world projects, competitive programming, and open-source contributions.  </h5>
 
-💡 **Interests:** Machine Learning, Full-Stack Development, Data Science, Competitive Programming  
+💡 **Interests:** Data Science ,Machine Learning, Full-Stack Development,  Competitive Programming  
 📚 **Skills:** OOP, DSA, Web Development
 ## Coding Profiles:
 
