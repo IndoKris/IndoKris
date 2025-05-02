@@ -51,8 +51,13 @@
 
 ---
 
-## 📊 GitHub Stats:
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=IndoKris&show_icons=true&theme=radical" alt="GitHub Stats" width="60%"> 
+## 📊 Stats:
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=IndoKris&show_icons=true&theme=highcontrast" alt="GitHub Stats" width="48%" style="margin-right: 2%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndoKris&layout=compact&theme=dark" alt="Top Languages" width="48%">
 </div>
+
+
+
 
