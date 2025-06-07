@@ -58,6 +58,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndoKris&layout=compact&theme=dark" alt="Top Languages" width="48%">
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IndoKris&label=Profile%20views&color=0e75b6&style=flat" alt="IndoKris" /> </p>
+
 
 
 
