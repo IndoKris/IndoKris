@@ -37,13 +37,13 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<!--  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -54,12 +54,10 @@
 ## 📊 Stats:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=IndoKris&show_icons=true&theme=highcontrast" alt="GitHub Stats" width="48%" style="margin-right: 2%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndoKris&layout=compact&theme=dark" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=IndoKris&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%" style="margin-right: 2%;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=IndoKris&theme=dark&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndoKris&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" >
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IndoKris&label=Profile%20views&color=0e75b6&style=flat" alt="IndoKris" /> </p>
-
-
-
+[![](https://visitcount.itsvg.in/api?id=IndoKris&icon=3&color=1)](https://visitcount.itsvg.in)
 
