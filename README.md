@@ -50,14 +50,17 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
-
 ## 📊 Stats:
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=IndoKris&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%" style="margin-right: 2%;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=IndoKris&theme=dark&hide_border=true" alt="Top Languages" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndoKris&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" >
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndoKris&theme=dark" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=IndoKris&theme=dark" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IndoKris&layout=compact&theme=dark" />
+</p>
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=IndoKris&icon=3&color=1)](https://visitcount.itsvg.in)
-
