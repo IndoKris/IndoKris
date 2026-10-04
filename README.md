@@ -53,14 +53,13 @@
 ## 📊 Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndoKris&theme=dark" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=IndoKris&theme=dark" width="48%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IndoKris&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=IndoKris&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IndoKris&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndoKris&layout=compact&theme=dark&hide_border=true" />
 </p>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=IndoKris&icon=3&color=1)](https://visitcount.itsvg.in)
+--- 
+<img src="https://hits.sh/github.com/IndoKris.svg?label=views&color=0e75b6" alt="Profile views" />
